@@ -2,8 +2,8 @@ import StopWatch from "./StopWatch.jsx";
 
 
 function App(){
-  return(<>
+  return(
   <StopWatch/>
-  </>);
+  );
 }
 export default App;
